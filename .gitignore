@@ -43,3 +43,5 @@ claude-upgrade-progress.json
 
 # bv (beads viewer) local config and caches
 .bv/
+.beads/
+.agent-mail.yaml
